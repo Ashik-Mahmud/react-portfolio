@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.c3c66b8d.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.a625dbac.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.a625dbac.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.48dddf9e.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.48dddf9e.js.map",
+    "static/css/2.65af8127.chunk.css": "/react-portfolio/static/css/2.65af8127.chunk.css",
+    "static/js/2.caaac7af.chunk.js": "/react-portfolio/static/js/2.caaac7af.chunk.js",
+    "static/js/2.caaac7af.chunk.js.map": "/react-portfolio/static/js/2.caaac7af.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.65af8127.chunk.css.map": "/react-portfolio/static/css/2.65af8127.chunk.css.map",
+    "static/css/main.c3c66b8d.chunk.css.map": "/react-portfolio/static/css/main.c3c66b8d.chunk.css.map",
+    "static/js/2.caaac7af.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.caaac7af.chunk.js.LICENSE.txt",
+    "static/media/1.6130b489.jpg": "/react-portfolio/static/media/1.6130b489.jpg",
+    "static/media/2.24a305e6.jpg": "/react-portfolio/static/media/2.24a305e6.jpg",
+    "static/media/3.995bf075.jpg": "/react-portfolio/static/media/3.995bf075.jpg",
+    "static/media/4.4d901062.jpg": "/react-portfolio/static/media/4.4d901062.jpg",
+    "static/media/5.7cc84a8c.jpg": "/react-portfolio/static/media/5.7cc84a8c.jpg",
+    "static/media/6.512bb5f9.jpg": "/react-portfolio/static/media/6.512bb5f9.jpg",
+    "static/media/about.f1e45c67.png": "/react-portfolio/static/media/about.f1e45c67.png",
+    "static/media/contact.e55ae0ae.png": "/react-portfolio/static/media/contact.e55ae0ae.png",
+    "static/media/home.9011411a.png": "/react-portfolio/static/media/home.9011411a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48dddf9e.js",
+    "static/css/2.65af8127.chunk.css",
+    "static/js/2.caaac7af.chunk.js",
+    "static/css/main.c3c66b8d.chunk.css",
+    "static/js/main.a625dbac.chunk.js"
+  ]
+}
